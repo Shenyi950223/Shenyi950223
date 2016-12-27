@@ -9,7 +9,7 @@ B.E. in Automation (Brilliant)
 Expected <i>June 2017</i>
 
 School of Electric Engineering                                                                               
-<i>August 2015 - December 2015</i>
+<i>August 2015 - December 2015</i><br>
 <strong>Korea University</strong>, Seoul, South Korea
 
 Shanghai Yan'an High School
