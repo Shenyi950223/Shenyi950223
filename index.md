@@ -1,4 +1,4 @@
-<img src="huangpu.jpg" width="1000" height="500">
+<img src="huangpu.jpg" width="1000" height="200">
 <h1 style="color: #5e9ca0;">Welcome to SHENYI Personal Page</h1>
 My name is SHEN YI. I was born in Haimen, Jiangsu Province and then moved to Shanghai. Now, I am studying in Shandong University in Jinan, China and majoring in Automation.
 
