@@ -4,12 +4,13 @@ My name is SHEN YI. I was born in Haimen, Jiangsu Province and then moved to Sha
 
 ## Education Background.
 School of Control Science and Engineering (SCSE)                                                                 
-Shandong University, Jinan, Shandong Province, China                                       
-B.E. in Automation (Brilliant)                                                 Expected June 2017
+<strong>Shandong University, Jinan, Shandong Province, China                                       
+B.E. in Automation (Brilliant)                                                 
+<i>Expected June 2017
 
 School of Electric Engineering                                                                               
 August 2015 - December 2015
-Korea University, Seoul, South Korea
+<strong>Korea University, Seoul, South Korea
 
 Shanghai Yan'an High School
 Septemper 2010 - June 2013
