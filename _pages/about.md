@@ -24,5 +24,5 @@ School of Electric Engineering
 <i>Septemper 2010 - June 2013</i>
 
 
-![alt text](/images/500x300.png "Logo Title Text 1")
+![alt text](/images/500x300.png "I am in Busan, South Korea")
 
