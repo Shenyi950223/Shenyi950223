@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,6 +23,6 @@ School of Electric Engineering
 <strong>Shanghai Yan'an High School</strong><br>
 <i>Septemper 2010 - June 2013</i>
 
-## Images
+
 ![alt text](/images/500x300.png "Logo Title Text 1")
 
