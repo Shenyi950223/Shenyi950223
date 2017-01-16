@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is SHEN YI. I was born in Haimen, Jiangsu Province and then moved to Shanghai. Now, I am studying in Shandong University in Jinan, China and majoring in Automation.
+My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation.
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
 School of Control Science and Engineering (SCSE)                                                                 
