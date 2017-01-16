@@ -82,7 +82,7 @@ author:
   bio              : "SENIOR UNDERGRADUATE STUDENT"
   location         : "SHANGHAI, JINAN"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "shenyi@mail.sdu.edu.cn"
   uri              : 
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "shene23"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            : "sSsSYySH"
   xing             :
-  youtube          : "shenyi950223@gmail.com"
+  youtube          : 
   wikipedia        : 
 
 
@@ -170,7 +170,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /posts/2012/08/blog-post-1/h/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -186,7 +186,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "/posts/2012/08/blog-post-1/"
+      path: ""
       type: posts
     values:
       layout: single
