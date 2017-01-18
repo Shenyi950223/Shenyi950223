@@ -12,7 +12,7 @@ My name is SHEN YI. I am studying in Shandong University in Jinan, China and maj
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
                                                                  
-<strong>Shandong University</strong>, Jinan, Shandong Province, China<br>                                    
+<strong>Shandong University</strong>, Jinan, Shandong Province, China                                  
 School of Control Science and Engineering (SCSE)
 B.E. in Automation (Brilliant)                                              
 Expected <i>June 2017</i><br>
