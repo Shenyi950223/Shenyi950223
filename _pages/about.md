@@ -16,13 +16,18 @@ School of Control Science and Engineering (SCSE)
 B.E. in Automation (Brilliant)                                                 
 Expected <i>June 2017</i>
 
+<strong>Korea University</strong>, Seoul, South Korea
 School of Electric Engineering                                                                               
 <i>August 2015 - December 2015</i><br>
-<strong>Korea University</strong>, Seoul, South Korea
 
 <strong>Shanghai Yan'an High School</strong><br>
-<i>Septemper 2010 - June 2013</i>
+<i>Septemper 2010 - June 2013</i><br>
 
+<strong>Shanghai Shangbao Middele School</strong><br>
+<i>Septemper 2006 - June 2010</i><br>
+
+<strong>Shanghai Pingnan Primary School</strong><br>
+<i>Septemper 2001 - June 2006</i><br>
 
 ![alt text](/images/busan.png "I am in Busan, South Korea")
 
