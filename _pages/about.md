@@ -11,8 +11,9 @@ redirect_from:
 My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation.
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
-School of Control Science and Engineering (SCSE)                                                                 
+                                                                 
 <strong>Shandong University</strong>, Jinan, Shandong Province, China                                       
+School of Control Science and Engineering (SCSE)
 B.E. in Automation (Brilliant)                                                 
 Expected <i>June 2017</i>
 
