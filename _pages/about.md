@@ -36,5 +36,9 @@ School of Electric Engineering
 Training & Support Team, Internship                                           
 <i>January 2017 - April 2017</i><br>
 
+<strong>School of Control Science and Engineering, Shandong University</strong>, Jinan, Shandong Province, China<br>
+Teaching Assistant (Linear Algebra)                                           
+<i>September 2016 - January 2017</i><br>
+
 ![alt text](/images/busan.png "I am in Busan, South Korea")
 
