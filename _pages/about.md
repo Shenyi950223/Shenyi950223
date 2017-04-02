@@ -30,5 +30,11 @@ School of Electric Engineering
 <strong>Shanghai Pingnan Primary School</strong><br>
 <i>Septemper 2001 - June 2006</i><br>
 
+<h2 style="color: #2e6c80;">Internship & Work Experience.</h2>
+
+<strong>B&R Automation</strong>, Shanghai, China<br>
+Training & Support Team, Internship                                           
+<i>January 2017 - April 2017</i><br>
+
 ![alt text](/images/busan.png "I am in Busan, South Korea")
 
