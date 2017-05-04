@@ -11,6 +11,11 @@ redirect_from:
 My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation.
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
+
+<strong>University of Pennsylvania</strong>, Philadelphia, PA 19104, United States                          
+Department of Electrical and Systems Engineering (ESE)
+M.S. in Systems Engineering                                           
+<i>August 2017 - May 2019</i><br>
                                                                  
 <strong>Shandong University</strong>, Jinan, Shandong Province, China                                  
 School of Control Science and Engineering (SCSE)
