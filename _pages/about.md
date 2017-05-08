@@ -12,7 +12,7 @@ My name is SHEN YI. I am studying in Shandong University in Jinan, China and maj
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
 
-<strong>University of Pennsylvania</strong>, Philadelphia, PA 19104, United States                          
+<strong>[University of Pennsylvania](http://www.upenn.edu/)</strong>, Philadelphia, PA 19104, United States                          
 Department of Electrical and Systems Engineering (ESE)
 M.S. in Systems Engineering                                           
 <i>August 2017 - May 2019</i><br>
