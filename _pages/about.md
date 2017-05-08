@@ -13,26 +13,26 @@ My name is SHEN YI. I am studying in Shandong University in Jinan, China and maj
 <h2 style="color: #2e6c80;">Education Background.</h2>
 
 <strong>[University of Pennsylvania](http://www.upenn.edu/)</strong>, Philadelphia, PA 19104, United States                          
-Department of Electrical and Systems Engineering (ESE)
+[Department of Electrical and Systems Engineering (ESE)](http://www.ese.upenn.edu/)<br>
 M.S. in Systems Engineering                                           
 <i>August 2017 - May 2019</i><br>
                                                                  
-<strong>Shandong University</strong>, Jinan, Shandong Province, China                                  
-School of Control Science and Engineering (SCSE)
+<strong>[Shandong University](http://www.sdu.edu.cn/)</strong>, Jinan, Shandong Province, China                                  
+[School of Control Science and Engineering (SCSE)](http://control.sdu.edu.cn/)<br>
 B.E. in Automation (Brilliant)                                              
 Expected <i>June 2017</i><br>
 
-<strong>Korea University</strong>, Seoul, South Korea<br>
+<strong>[Korea University](http://www.korea.edu/)</strong>, Seoul, South Korea<br>
 School of Electric Engineering                                           
 <i>August 2015 - December 2015</i><br>
 
-<strong>Shanghai Yan'an High School</strong><br>
+<strong>[Shanghai Yan'an High School](http://www.shyahs.com/WebSite.Net/)</strong><br>
 <i>Septemper 2010 - June 2013</i><br>
 
-<strong>Shanghai Shangbao Middele School</strong><br>
+<strong>[Shanghai Shangbao Middele School](http://shsb.cn/)</strong><br>
 <i>Septemper 2006 - June 2010</i><br>
 
-<strong>Shanghai Pingnan Primary School</strong><br>
+<strong>[Shanghai Pingnan Primary School](http://pnxx.mhedu.sh.cn/)</strong><br>
 <i>Septemper 2001 - June 2006</i><br>
 
 <h2 style="color: #2e6c80;">Internship & Work Experience.</h2>
