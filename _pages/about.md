@@ -37,7 +37,7 @@ School of Electric Engineering
 
 <h2 style="color: #2e6c80;">Internship & Work Experience.</h2>
 
-<strong>B&R Automation</strong>, Shanghai, China<br>
+<strong>[B&R Automation](https://www.br-automation.com/en/perfection-in-automation/)</strong>, Shanghai, China<br>
 Training & Support Team, Internship                                           
 <i>January 2017 - April 2017</i><br>
 
