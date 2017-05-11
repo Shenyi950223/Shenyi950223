@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation. [CV](https://github.com/Shenyi950223/Shenyi950223.github.io/raw/master/uploads/cv.pdf/)
+My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation. 
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
 
