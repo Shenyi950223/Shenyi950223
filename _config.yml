@@ -83,7 +83,7 @@ author:
   location         : "SHANGHAI, JINAN"
   employer         : 
   googlescholar    : 
-  email            : "shenyi@mail.sdu.edu.cn"
+  email            : "yish@seas.upenn.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,9 +92,9 @@ author:
   facebook         : "YI SHEN"
   foursquare       :
   github           : 
-  google_plus      :
+  google_plus      : "shen.yi950223@gmail.com"
   keybase          :
-  instagram        : "shene23"
+  instagram        : "shenyi950223"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -184,7 +184,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts
