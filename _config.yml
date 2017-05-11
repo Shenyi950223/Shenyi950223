@@ -186,7 +186,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://shenyi950223.github.io/posts/"
       type: posts
     values:
       layout: single
