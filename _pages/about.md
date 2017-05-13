@@ -45,5 +45,4 @@ Training & Support Team, Internship
 Teaching Assistant (Linear Algebra)                                           
 <i>September 2016 - January 2017</i><br>
 
-![alt text](/images/busan.png "I am in Busan, South Korea")
 
