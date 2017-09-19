@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is SHEN YI. I am studying in Shandong University in Jinan, China and majoring in Automation. 
+This is SHEN YI's personal website. I am a master student in Penn.
 
 <h2 style="color: #2e6c80;">Education Background.</h2>
 
